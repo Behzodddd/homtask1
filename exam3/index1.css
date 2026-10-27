@@ -1,0 +1,56 @@
+.a{
+    background-image: url(./img1.svg);
+    background-size: cover;
+    padding: 140px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+        img{
+           margin-bottom: 50px;
+        }
+        .aa{        
+            margin: auto;
+            padding: 30px;
+            text-align: center;
+            background-color: white;
+            width: 500px;
+            border-radius: 20px;
+            box-shadow: 1px 1px 1px 1px gray;
+            .a1{
+                margin: auto;
+                padding: 20px;
+                width: 350px;
+                display: flex;
+                justify-content: center;
+                flex-direction: column;
+                gap: 30px;
+                input{
+                    padding: 10px;
+                    border-radius: 5px;
+                }
+                h4{
+                    text-align: right;
+                    color: blue;
+                    margin-top: -20px;
+                }
+                .chek{
+                    display: flex;
+                    justify-content: left;
+                }
+                button{
+                    padding: 10px;
+                    border-radius: 5px;
+                    background-color: #843546;
+                    color: white;
+                    a{
+                        color: white;
+                    }
+                }
+                h3{
+                    color: blue;
+                }
+            }
+        }
+}

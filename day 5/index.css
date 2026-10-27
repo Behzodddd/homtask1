@@ -1,0 +1,25 @@
+div{
+    width: 500px;
+    height: 500px;
+   background-color: red;
+   transition: calc(3s);
+   animation: move 9s infinite;
+   border-radius: 20px;
+}
+div:hover{
+    background-color: blue;
+}
+@keyframes move{
+    from{
+        transform:translateZ()(0px);
+    }
+    to{
+        transform:translateZ(700px);
+    }
+    from{
+        transform: translateX(0px);
+    }
+    to{
+        transform: translateX(700px);
+    }
+}

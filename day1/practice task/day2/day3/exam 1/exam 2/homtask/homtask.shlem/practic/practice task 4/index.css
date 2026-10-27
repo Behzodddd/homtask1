@@ -1,0 +1,24 @@
+table{
+    border: 2px solid black;
+    margin: auto;
+    width: 50%;
+    td{
+        border: 2px solid black;
+        text-align: center;
+    }
+    th{
+        text-align: center;
+    }
+    .oo{
+        margin: auto;
+    }
+    .ss{
+        background-color: bisque;
+    }
+    .ww{
+        background-color: rgb(191, 255, 191);
+    }
+    .rr{
+        background-color: rgb(121, 121, 121);
+    }
+}

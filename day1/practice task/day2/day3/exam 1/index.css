@@ -1,0 +1,91 @@
+.home{
+    background-color: red;
+    display: block;
+    padding: 15px;
+    
+}
+.hm{
+    display: inline;
+    background-color: rgb(238, 231, 231);
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    margin-right: 10px;
+    
+}
+.link{
+    margin-left: 30px;
+    display: inline;
+}
+.er{
+    display: inline;
+    color:white;
+    font-size: 25px;
+    padding: 15px;
+}
+.st{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    padding: 7%;
+}
+.get{
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    display: inline;
+    padding: 7px;
+}
+.lr{
+    width: 40%;
+    background-color: white;
+    padding: 7%;
+    color: black;
+    text-align: left;
+    display: inline-block;
+    font-size: 25px;
+}
+.xira{
+    font-size: 17px;
+    color: rgb(99, 96, 96);
+}
+.suret{
+    margin-top: -400px;
+    margin-left: 1000px;
+    padding: 5px;
+    background-color: white;
+}
+.suret2{
+    margin-left: 100px;
+    margin-top: -700px;
+}
+.ml{
+    background-color: white;
+    width: 40%;
+    color: black;
+    padding: 6%;
+    font-size: 20px;
+    display: block;
+    margin-top: -20px;
+    margin-left: 500px;
+    text-align: right;
+}
+.jj{
+    background-color: white;
+}
+.xira2{
+    font-size: 17px;
+    color: rgb(99, 96, 96);
+}
+.lorem{
+    background-color: rgb(143, 142, 142);
+    color:rgb(252, 249, 249) ;
+    padding: 80px;
+    text-align: center;
+}
+.ll{
+    background-color: white;
+    color: rgb(2, 2, 2);
+    padding: 80px;
+    text-align: center;
+}

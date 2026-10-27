@@ -1,0 +1,44 @@
+table{
+    border: 3px solid black;
+    width: 50%;
+    margin: auto;
+    td{
+        border: 3px solid rgb(0, 0, 0);
+        width: 13%;
+        height: 14px;
+        font-size: 40px;
+        text-align: center;
+        color: rgb(0, 0, 0);
+    }
+    .t1{
+        text-align: left;
+        padding: 50px;
+        height: 5px;
+        width: 13px;
+    }
+    .th{
+        background-color: chocolate;
+    }
+    .rr{
+        color: chocolate;
+        background-color: chocolate;
+    }
+    .ff{
+        background-color: chocolate;
+    }
+    .gg{
+        background-color: yellow;
+    }
+    .ya{
+        background-color: green;
+    }
+    .qa{
+        background-color: green
+    }
+    .fe{
+        background-color: white;
+    }
+    .i8{
+        background-color: rgb(121, 117, 117);
+    }
+}
